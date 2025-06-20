@@ -32,27 +32,68 @@ This project focused on solving business questions across four key pillars:
 
 ##  Key Insights
 
-- Most customers fall into the **low-frequency, low-value** segment, but a **high-value minority** offers major upsell potential
-- **Health & Beauty**, **Watches & Gifts**, and **Bed & Bath** are the leading product categories by revenue
-- **São Paulo (SP)** dominates sales and delays — both an opportunity and a logistics challenge
-- **Credit cards** account for over 75% of revenue, followed by **boleto**
-- Deliveries are mostly early or on time, but delays over **20+ days** strongly impact reviews
-- Only **10.5%** of qualified leads convert, with the top 3 sellers closing most deals
+##  Customer Behavior  
+I observed that the majority of customers fall into the low-frequency, low-value segment. However, there's a small group of high-value customers that presents a major opportunity for retention and upselling.  
+Also, São Paulo (SP) stands out as the top region in both sales volume and delivery traffic.
 
 ---
 
-##  Recommendations
-
--  **Boost customer retention** through loyalty programs and targeted promotions
--  **Replicate top-seller success** via strategy sharing and performance coaching
--  **Refine logistics in SP & RJ** using micro-fulfillment or improved courier partnerships
--  **Proactively communicate delays** with real-time updates and customer compensation
--  **Run A/B tests** on delivery messaging, review timing, and discount visibility
--  **Revisit lead scoring** and contact timing to improve conversion
+## Sales & Product Performance  
+I found that Health & Beauty, Watches & Gifts, and Bed & Bath are the leading product categories by revenue.  
+Interestingly, a few top sellers generated the bulk of total sales — a clear 80/20 pattern I couldn't ignore.
 
 ---
 
-## 🛠 Tools & Technologies
+##  Payments & Revenue Streams  
+It became evident that credit card payments dominate (over 75% of total revenue), while boleto remains significant for customers without access to cards.  
+Other options like vouchers and debit cards showed minimal use.
+
+---
+
+##  Delivery & Logistics  
+Most deliveries were either on-time or early, which is great — but delays of over 20 days often led to lower customer reviews.  
+I also noticed that SP and RJ consistently experienced the highest delivery delays, likely due to congestion and order volume.
+
+---
+
+##  Review Sentiment  
+Review scores generally leaned toward 5 stars, which is great.  
+However, I did spot low-score outliers (1–2 stars), often linked to delivery delays or product quality inconsistencies.
+
+---
+
+##  Sales Funnel Observations  
+The conversion rate from qualified leads to closed deals stood at just ~10.5%.  
+The top 3 sellers closed the majority of deals — showing strong performance, but also hinting at opportunities to support and coach lower-performing sellers.
+
+---
+
+##  Recommendation
+
+###  Boost Customer Retention  
+Introduce loyalty programs and personalized marketing to engage low-frequency customers — and increase their lifetime value.
+
+###  Replicate What Works Among Top Sellers  
+Study and share the sales techniques and strategies of high-performing sellers with the wider team.
+
+###  Refine Regional Logistics  
+Improve last-mile delivery operations in key regions like SP and RJ through better carrier partnerships and distribution optimization.
+
+###  Communicate Proactively with Customers  
+When delays happen, early communication, real-time tracking, and compensation (e.g., vouchers) can help maintain trust.
+
+###  Tighten the Lead Qualification Process  
+Revisit lead scoring logic and experiment with follow-up timing to increase closure rates.
+
+###  Run Strategic A/B Tests  
+Test different delivery messaging, review request timing, and discount visibility on product vs. checkout pages — to optimize customer experience and conversion.
+
+
+
+
+---
+
+## Tools & Technologies
 
 - **Python**: Data analysis & cleaning (Pandas, NumPy)
 - **Seaborn, Plotly**: Visualization
@@ -81,9 +122,9 @@ Big thanks to **10alytics** for hosting this insightful challenge and helping me
 ## 📬 Contact
 
 **Ebenezer**  
-📧 Email: _your-email@example.com_  
+📧 Email: easiedu362@gmail.com  
 🔗 GitHub: [@Ebenezer362](https://github.com/Ebenezer362)  
-🔗 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
+🔗 LinkedIn: https://www.linkedin.com/in/linkdinlink/
 
 ---
 
