@@ -108,8 +108,8 @@ Test different delivery messaging, review request timing, and discount visibilit
 
 ## 📎 Explore the Full Project
 
-🔗 **GitHub Repository**  
-[https://github.com/Ebenezer362/10alytics-Project-challenge](https://github.com/Ebenezer362/10alytics-Project-challenge)
+🔗 **File**  
+https://github.com/Ebenezer362/10alytics-Project-challenge/blob/main/Job.ipynb
 
 ---
 
